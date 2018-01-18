@@ -20,30 +20,36 @@
 # III. Các thao tác cơ bản với GitHub
 ----
 ## 1. Thêm một repository từ máy tính bằng GitHub Desktop
+
 **Bước 1**:
 - Click vào *File*, chọn *Add local repository*
 <img src="https://imgur.com/a/zAF4X">
+
 **Bước 2**:
 - Sau đó, hộp thoại sau hiện lên. Click *Choose* và chọn đường dẫn đến vị trí bạn muốn thêm vào.
 <img src="https://imgur.com/akuWOEm">
+
 **Bước 3**:
 - Click *Add repository*.
-----
+
 ## 2. Thêm một repository mới 
 **Bước 1**:
 - Click vào *File*, chọn *New repository*
 <img src="https://imgur.com/3cdVIcX">
+
 **Bước 2**:
 - Điền tên cho repo bạn muốn lập. Có thể tích vào *Initialize this repository with a README* để tạo file README.
 <img src="https://imgur.com/QJMyzPr">
+
 **Bước 3**:
 - Click *Creat repository*
 **Bước 4**:
 - Để đồng bộ lên Git, click *Publish repository* ở góc trên cùng bên phải.
 <img src="https://imgur.com/iUPCTN8">
+
 - Load lại trang Git được kết quả như sau:
 <img src="https://imgur.com/iMxXoAc">
-----
+
 ## 3. 
 
 
