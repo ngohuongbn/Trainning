@@ -43,6 +43,7 @@
 
 **Bước 3**:
 - Click *Creat repository*
+
 **Bước 4**:
 - Để đồng bộ lên Git, click *Publish repository* ở góc trên cùng bên phải.
 <img src="https://imgur.com/iUPCTN8">
