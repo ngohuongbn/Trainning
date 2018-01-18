@@ -5,13 +5,13 @@
 ----
 # II. Các bước phải làm để sử dụng GitHub
 ----
-##1. Đăng ký tài khoản [GitHub](https://github.com) và đăng nhập.
+## 1. Đăng ký tài khoản [GitHub](https://github.com) và đăng nhập.
 ----
-##2. Học cách sử dụng ngôn ngữ Markdown.
+## 2. Học cách sử dụng ngôn ngữ Markdown.
 - Bạn có thể truy cập vào [đây](https://daringfireball.net/projects/markdown/syntax) để học cách sử dụng ngôn ngữ Markdown.
 - Sử dụng trang [này](http://markdownlivepreview.com/) paste vào đó đoạn markdown bạn viết và xem trước để chỉnh sửa cho phù hợp.
 ----
-##3. Cài ứng dụng Git vào máy tính
+## 3. Cài ứng dụng Git vào máy tính
 - Bạn có thể sử dụng Git trên các hệ điều hành Linux, MAC OS, Window nhưng trong phạm vi bài này tôi sẽ chỉ đề cập đến cách sử dụng GitHub Desktop trên Window (cụ thể là Win 10 Pro).
 - Đầu tiên, bạn tải cài đặt GitHub cho Window tại [đây](https://desktop.github.com/).
 - Đăng nhập.
