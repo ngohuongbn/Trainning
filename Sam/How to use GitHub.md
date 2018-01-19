@@ -1,9 +1,9 @@
-# I. Khái niệm Git và GitHub
+# I. Khái niệm Git và GitHub(#KhainiemGitvaGitHub)
 - Git là một mô hình quản lý phiên bản phân tán rất thông dụng hiện nay, nó có thể giúp các lập trình viên quản lý mã nguồn tốt hơn với cơ chế quản lý phiên bản. Ngoài ra nó còn giúp quy trình làm việc theo nhóm nhanh và đơn giản hơn.
 - Github là một trang web, cho phép bạn lưu source code của mình lên đó. Các máy tính có thể clone lại mã nguồn từ một repository và Github chính là một dịch vụ máy chủ repository công cộng, mỗi người có thể tạo tài khoản trên đó để tạo ra các kho chứa của riêng mình để có thể làm việc.
 - Github có bản free và mất phí. Với Github free thì source code của bạn sẽ công khai, có nghĩa là ai cũng có thể xem code của bạn. Muốn có thể tạo một kho code bí mật của riêng mình thì bạn phải trả phí.
 ----
-# II. Các bước phải làm để sử dụng GitHub
+# II. Các bước phải làm để sử dụng GitHub(#CacbuocphailamdesudungGitHub)
 
 ## 1. Đăng ký tài khoản [GitHub](https://github.com) và đăng nhập.
 
@@ -17,9 +17,9 @@
 - Đăng nhập.
 - Tải và cài đặt tool hỗ trợ viết Markdown tại [đây](https://code.visualstudio.com/).
 ----
-# III. Các thao tác cơ bản với GitHub
+# III. Các thao tác cơ bản với GitHub(#CacthaotacvoiGitHub)
 ----
-## 1. Thêm một repository từ máy tính bằng GitHub Desktop
+## 1. Thêm một repository từ máy tính bằng GitHub Desktop(#ThemmotrepositorytumaytinhbangGitHubDesktop)
 
 **Bước 1**:
 - Click vào *File*, chọn *Add local repository*
@@ -32,7 +32,7 @@
 **Bước 3**:
 - Click *Add repository*.
 
-## 2. Thêm một repository mới 
+## 2. Thêm một repository mới(#Themmotrepository)
 **Bước 1**:
 - Click vào *File*, chọn *New repository*
 <img src="http://2.pik.vn/2018216bd956-978e-4859-a2e2-787f3883c875.png">
@@ -50,7 +50,7 @@
 - Load lại trang Git được kết quả như sau:
 <img src="http://2.pik.vn/2018f30d59c5-f0f7-4b5f-9084-b896e20a17b4.png">
 
-## 3. Cloning Repository từ GitHub bằng GitHub Desktop
+## 3. Cloning Repository từ GitHub bằng GitHub Desktop(#CloningRepositorytuGitHubbangGitHuDesktop)
 **Bước 1**:
 - Trong menu *File*, click *Clone repositopy*:
 <img src="http://2.pik.vn/2018041c8b11-eebf-4654-b2da-19dbf952e7df.png">
