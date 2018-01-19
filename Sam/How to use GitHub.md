@@ -23,7 +23,7 @@
 
 **Bước 1**:
 - Click vào *File*, chọn *Add local repository*
-<img src="https://imgur.com/a/zAF4X">
+<img src="![Screenshot_1.png](http://2.pik.vn/201866b7a7d5-aeee-496b-993f-eb936b195d2e.png)">
 
 **Bước 2**:
 - Sau đó, hộp thoại sau hiện lên. Click *Choose* và chọn đường dẫn đến vị trí bạn muốn thêm vào.
@@ -51,6 +51,12 @@
 - Load lại trang Git được kết quả như sau:
 <img src="https://imgur.com/iMxXoAc">
 
-## 3. 
+## 3. Cloning Repositopy
+**Bước 1**:
+- Trong menu *File*, click *Clone repositopy*:
+<img src="https://imgur.com/LRSqxuS">
+
+**Bước 2**:
+- Khi hộp thoại xuất hiện, ở phần *URL*, 
 
 
