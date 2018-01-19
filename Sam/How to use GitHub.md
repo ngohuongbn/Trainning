@@ -35,11 +35,11 @@
 ## 2. Thêm một repository mới 
 **Bước 1**:
 - Click vào *File*, chọn *New repository*
-<img src="http://2.pik.vn/201866b7a7d5-aeee-496b-993f-eb936b195d2e.png">
+<img src="http://2.pik.vn/2018216bd956-978e-4859-a2e2-787f3883c875.png">
 
 **Bước 2**:
 - Điền tên cho repo bạn muốn lập. Có thể tích vào *Initialize this repository with a README* để tạo file README.
-<img src="http://2.pik.vn/201866b7a7d5-aeee-496b-993f-eb936b195d2e.png">
+<img src="http://2.pik.vn/2018354fe2e2-dca9-4159-a3e4-760c356d0095.png">
 
 **Bước 3**:
 - Click *Creat repository*
@@ -48,16 +48,16 @@
 - Để đồng bộ lên Git, click *Publish repository* ở góc trên cùng bên phải.
 
 - Load lại trang Git được kết quả như sau:
-<img src="http://2.pik.vn/201866b7a7d5-aeee-496b-993f-eb936b195d2e.png">
+<img src="http://2.pik.vn/2018f30d59c5-f0f7-4b5f-9084-b896e20a17b4.png">
 
 ## 3. Cloning Repository từ GitHub bằng GitHub Desktop
 **Bước 1**:
 - Trong menu *File*, click *Clone repositopy*:
-<img src="http://2.pik.vn/201866b7a7d5-aeee-496b-993f-eb936b195d2e.png">
+<img src="http://2.pik.vn/2018041c8b11-eebf-4654-b2da-19dbf952e7df.png">
 
 **Bước 2**:
 - Khi hộp thoại xuất hiện, ở phần *URL*, chọn link repository bạn muốn clone và nơi chứa repo đó trên máy của bạn.
-<img src="http://2.pik.vn/201866b7a7d5-aeee-496b-993f-eb936b195d2e.png>
+<img src="http://2.pik.vn/201867c0fde9-4d2b-4115-997b-d84ef5d266bc.png">
 
 
 
