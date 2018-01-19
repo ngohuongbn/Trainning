@@ -23,7 +23,7 @@
 
 **Bước 1**:
 - Click vào *File*, chọn *Add local repository*
-<img src="!http://2.pik.vn/201866b7a7d5-aeee-496b-993f-eb936b195d2e.png">
+<img src="http://2.pik.vn/201866b7a7d5-aeee-496b-993f-eb936b195d2e.png">
 
 **Bước 2**:
 - Sau đó, hộp thoại sau hiện lên. Click *Choose* và chọn đường dẫn đến vị trí bạn muốn thêm vào.
