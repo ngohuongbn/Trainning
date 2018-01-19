@@ -37,7 +37,7 @@
 ----
 <a name="CacthaotaccobanvoiGitHub"></a>
 
-# III. Các thao tác cơ bản với GitHub#T
+# III. Các thao tác cơ bản với GitHub
 ----
 <a name="ThemmotrepositorytumaytinhbangGitHubDesktop"></a>
 
