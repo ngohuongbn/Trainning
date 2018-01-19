@@ -30,13 +30,14 @@ Download Github desktop tại [đây](https://desktop.github.com/)
 
 - Vào thư mục "Trainning" vừa tải, tạo folder "NgocNM", sau đó tạo file "REDME.md" (Dùng Visual Studio Code sofware để tạo)
 <img src="https://imgur.com/tAspX11"> 
-<img src="https://imgur.com/sMyvAkR">
+[link ảnh](https://i.imgur.com/vLvNgV7.png)
 
 - Trên trang làm việc của Github Desktop, "Current Repository _ Trainning" xuất hiện "1 changed file" đó là file "README.md" mình vừa tạo -> Nhìn xuống bê dưới, phần "Description" gõ: "update add readme" -> "Fetch origin" -> phần "Summary" gõ:"update add readme" -> "Push to origin". Kết quả là:
 <img src="https://imgur.com/HwyeCOJ">
 <img src="https://imgur.com/vLvNgV7">
 
 *Tương tự đối với file "BC_Github.md"*
+
 
 
 
