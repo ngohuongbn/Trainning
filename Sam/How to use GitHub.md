@@ -27,7 +27,7 @@
 
 **Bước 2**:
 - Sau đó, hộp thoại sau hiện lên. Click *Choose* và chọn đường dẫn đến vị trí bạn muốn thêm vào.
-<img src="http://2.pik.vn/201866b7a7d5-aeee-496b-993f-eb936b195d2e.png">
+<img src="http://2.pik.vn/2018291232d9-d194-434b-95e0-ccdfc7afbf15.png">
 
 **Bước 3**:
 - Click *Add repository*.
