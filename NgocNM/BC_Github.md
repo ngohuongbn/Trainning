@@ -11,7 +11,7 @@ Download Github desktop tại [đây](https://desktop.github.com/)
 
 > Đây là phần mềm trên máy tính để theo dõi các thay đổi ("snapshots") bạn thực hiện cho một project và theo dõi bất kì thay đổi nào của project đó được thực hiện bởi một máy chủ - server ("remote"). Snapshots ở cả hai đầu được lưu trữ trong một thư mục ẩn được gọi là "repository" (repo).
 
-<img src="https://imgur.com/emXagtL">
+<img src="http://2.pik.vn/201808bb766a-01d3-45dd-ac9c-9c3909becc45.jpg">
 
 - "Clone": Sao chép một project Git hiện có từ một máy chủ từ xa - remote server vào máy tính của mình.
 - "Pull": Sao chép bất kì thay đổi nào được thực hiện trong remote project đó đến máy tính của mình, do đó ta có thể có phiên bản project mới nhất trước khi làm việc.
