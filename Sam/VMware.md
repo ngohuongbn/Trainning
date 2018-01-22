@@ -50,7 +50,6 @@
 - Sau đây là các bước cài đặt Ubuntu:
    <ul>
    <li> Bước 1: mở VMware, lựa chọn *Create a New Virtual Machine*.</li>
-<<<<<<< HEAD
 
    <img src="http://2.pik.vn/2018ee6a34d0-4536-4a73-ab45-61061e1baa71.png">
 
@@ -66,7 +65,7 @@
 
    <img src="http://2.pik.vn/2018213412ad-0b60-41ed-9f7f-962d2edafe07.png">
 
-   <li> Bước 4: Quay trở lại giao diện chọn file, lúc này bạn chỉ cần ấn *Next* để sang bước tiếp theo.</li>
+   <li> Quay trở lại giao diện chọn file, lúc này bạn chỉ cần ấn *Next* để sang bước tiếp theo.</li>
 
    <img src="http://2.pik.vn/201892b0aec2-aa20-447b-987f-6e21c8ff906e.png">
 
@@ -104,62 +103,7 @@
 
    <img src="http://2.pik.vn/2018a801b5d6-0ddf-443a-93fc-b650f7f62aea.png">
 
-=======
-   
-   <img src="http://2.pik.vn/2018ee6a34d0-4536-4a73-ab45-61061e1baa71.png">
-   
-   <li> Bước 2: Để mặc định là *Typical* rồi nhấn *Next*.</li>
-   
-   <img src="http://2.pik.vn/2018caacad41-1248-43c0-8491-35836a28d2ee.png">
-   
-   <li> Bước 3: Lựa chọn *Installer disc image file* rồi *Browse* để tìm đường đẫn đến nơi chứ file Ubuntu iso của bạn.</li>
-   
-   <img src="http://2.pik.vn/20189387c522-3bda-4b25-889a-8d6c89cd1af1.png">
-   
-   <li> Bước 4: Lựa chọn file iso UBuntu bạn tải về khi nãy rồi *Open*.</li>
-   
-   <img src="http://2.pik.vn/2018213412ad-0b60-41ed-9f7f-962d2edafe07.png">
-   
-   <li> Bước 4: Quay trở lại giao diện chọn file, lúc này bạn chỉ cần ấn *Next* để sang bước tiếp theo.</li>
-   
-   <img src="http://2.pik.vn/201892b0aec2-aa20-447b-987f-6e21c8ff906e.png">
-   
-   <li> Bước 5: Điền tên tài khoản, user cũng như mật khẩu cho Ubuntu khi bạn đăng nhập vào rồi tiếp tục bấm *Next*.</li>
-   
-   <img src="http://2.pik.vn/201873cc135f-e465-48ad-8e7b-654ac774c283.png">
-   
-   <li> Bước 6: Lựa chọn tiếp tên hiển thị máy và nơi chưa dữ liệu cho VMWare Ubuntu.</li>
-   
-   <img src="http://2.pik.vn/20182566f686-b985-46fb-8074-f17abe6a7087.png">
-   
-   <li> Bước 7: Lựa chọn dung lượng tối đa mà Ubuntu được cho, bạn có thể thay đổi nếu ổ cứng bạn trống nhiều, còn không cứ tiếp tục *Next*.</li> 
-   
-   <img src="http://2.pik.vn/201877d404bf-051c-417f-a146-0e5729f09209.png">
-   
-   <li> Bước 8: Đây là bước tùy chỉnh cấu hình, thông thường bạn nên nâng cao RAM lên một chút dể sử dụng đỡ bị giật hoặc lag. Tuy nhiên cần chú ý việc này ảnh hưởng tới máy chính của bạn. Ngoài RAM có thể chỉnh tối đa lên 64 GB bạn còn có thể tùy chỉnh nhiều thứ khác nữa như CPU hay kết nối DVD, mạng, USB.</li>
-   
-   <img src="http://2.pik.vn/201821297114-8ad2-4d9e-9304-e19ccea55c9c.png">
-
-   <img src="http://2.pik.vn/2018e289670a-f661-415a-bc96-92a68ecf53d4.png">
-   
-   <li> Bước 9: Đến bước này bạn chỉ việc ngồi chờ hệ thống cài Ubuntu trong VMWare mà thôi.</li>
-   
-   <img src="http://2.pik.vn/201848d98cbf-497a-40d8-84ae-c153b3522b96.png">
-   
-   <li> VMWare sẽ tối ưu giúp bạn toàn bộ các bước cài đặt.</li> 
-   
-   <img src="http://2.pik.vn/2018147d8eb7-5d46-4dd9-a6a7-2fce8f134ee3.png">
-   
-   <li> Sau khi cài xong bạn có thể đăng nhập vào và sử dụng.</li>
-   
-   <img src="http://2.pik.vn/20184c38dc66-8259-4e16-8aa2-2d1c030d8190.png">
-   
-   <li> Giao diện Ubuntu có đôi chút khác biệt so với Windows.</li>
-   
-   <img src="http://2.pik.vn/2018a801b5d6-0ddf-443a-93fc-b650f7f62aea.png">
-   
->>>>>>> f14d16ef19e0ac6cd3b7448ad5a6ac5b11509b7f
-   <li> Như vậy là chúng ta đã hoàn tất việc cài Ubuntu trong VMWare.</li>
+  <li> Như vậy là chúng ta đã hoàn tất việc cài Ubuntu trong VMWare.</li>
    </ul>
 
 <a name="Themcardmangchomayao"></a>
