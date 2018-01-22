@@ -1,3 +1,15 @@
+**TỔNG QUAN VỀ VMWARE WORKSTATION**
+
+# Mục lục 
+
+- [I. Khái niệm VMware Workstation](#KhainiemVMwareWorkstation)
+- [II. Các thao tác với VMware](#CacthaotacvoiVMware)
+    - [1. Tạo một máy ảo trên VMware](#TaomotmayaotrenVMware)
+    - [2. Thêm card mạng cho máy ảo](#Themcardmangchomayao)
+         - [2.1. Thêm, xóa một vmnet](#Themxoamotvmnet)
+
+<a name="KhainiemVMwareWorkstation"></a>
+
 # I. Khái niệm VMware Workstation
 - VMware là phần mềm tạo máy ảo với hiệu năng hoạt động mạnh mẽ cho phép chạy song song nhiều hệ điều hành cùng lúc, rất hữu ích khi bạn chơi game hoặc thử nghiệm các phần mềm. 
 - Nếu bạn muốn vọc các hệ điều hành, phần mềm và các ứng dụng khác, bạn sẽ cần dùng máy ảo. Nó không chỉ cho phép bạn thực hiện các hành động không thể thực hiện trên máy thật, mà còn bảo vệ bạn khỏi virut hay sai lầm bạn có thể gây ra.
@@ -18,7 +30,11 @@
 
    <img src="http://2.pik.vn/201881a89485-e88a-4652-809f-d037d1e54826.png">
 
+<a name="CacthaotacvoiVMware"></a>
+
 # II. Các thao tác với VMware
+
+<a name="TaomotmayaotrenVMware"></a>
 
 ## 1. Tạo một máy ảo trên VMware
 - Ubuntu là một hệ điều hành máy tính dựa trên Debian GNU/Linux, một bản phân phối Linux thông dụng. Ubuntu là phần mềm mã nguồn mở tự do, có nghĩa là người dùng được tự do chạy, sao chép, phân phối, nghiên cứu, thay đổi và cải tiến phần mềm theo điều khoản của giấy phép GNU GPL.
@@ -146,6 +162,8 @@
    <li> Như vậy là chúng ta đã hoàn tất việc cài Ubuntu trong VMWare.</li>
    </ul>
 
+<a name="Themcardmangchomayao"></a>
+
 ## 2. Thêm card mạng cho máy ảo
 - *Khái niệm VMnet*: các card mạng ảo trong VMware sẽ được gọi là VMnet.
 - Khi mới cài đặt VMware Workstation, mặc định phần mềm sẽ cài cho chúng ta 2 card mạng như hình dưới. Đó là VMware Network Adapter VMnet1 và VMware Network Adapter VMnet8. Tương đương với việc từ máy thật hiện tại đã được cắm dây mạng với 2 Switch ảo VMnet1 và VMnet8. Do đó chỉ cần đặt địa chỉ IP cho 2 card mạng này của máy thật cùng dải IP với các máy ảo cũng nối vào 2 Switch ảo này, thì máy thật và máy ảo có thể kết nối với nhau qua một trong 2 card mạng này.
@@ -169,6 +187,8 @@
 
      <li> NAT: card này sẽ Nat địa chỉ IP của máy thật ra một địa chỉ khác cho máy ảo sử dụng. Card này cũng có thể kết nối ra bên ngoài Internet.</li>
      </ul>
+
+<a name="Themxoamotvmnet"></a>
 
 ### 2.1. Thêm, xóa một vmnet
 - **Thêm một VMnet**: Cũng trong *Virtual Network Editor* ta chọn như sau:
