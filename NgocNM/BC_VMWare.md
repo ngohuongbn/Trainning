@@ -73,11 +73,13 @@ Khi mới cài đặt VMWare, mặc định phần mềm sẽ cài đặt 2 card
 Ta có thể thấy trong hình, card bridge có tên là VMnet0, card NAT có tên là VMnet8
 
 Card bridge không có địa chỉ IP, nó sẽ sử dụng dải IP của máy thật. VMWare sẽ tự sinh một dải IP và gán cho VMnet8. trong trường hợp này, dải của tôi là dải 192.168.75.0/24
-----
+
 <a name="2.1"></a>
 ## 2.1. Thêm, xóa một vmnet
 ### Thêm một Vmnet
+
 Click "Virtual Network Editor" chọn:
+
 <img src="http://2.pik.vn/20181089d8cd-54bc-4e03-be2c-c87da3b4fb02.png">
 
 - Bước 1: Chọn Add Network
