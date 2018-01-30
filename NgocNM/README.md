@@ -1,0 +1,1 @@
+# Thư mục ghi chép của Ngọc :D 
